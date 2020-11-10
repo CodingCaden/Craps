@@ -1,0 +1,10 @@
+C:\Users\Caden\source\repos\Craps\Craps\bin\Debug\Craps.exe.config
+C:\Users\Caden\source\repos\Craps\Craps\bin\Debug\Craps.exe
+C:\Users\Caden\source\repos\Craps\Craps\bin\Debug\Craps.pdb
+C:\Users\Caden\source\repos\Craps\Craps\obj\Debug\Craps.csprojAssemblyReference.cache
+C:\Users\Caden\source\repos\Craps\Craps\obj\Debug\Craps.Form1.resources
+C:\Users\Caden\source\repos\Craps\Craps\obj\Debug\Craps.Properties.Resources.resources
+C:\Users\Caden\source\repos\Craps\Craps\obj\Debug\Craps.csproj.GenerateResource.cache
+C:\Users\Caden\source\repos\Craps\Craps\obj\Debug\Craps.csproj.CoreCompileInputs.cache
+C:\Users\Caden\source\repos\Craps\Craps\obj\Debug\Craps.exe
+C:\Users\Caden\source\repos\Craps\Craps\obj\Debug\Craps.pdb
